@@ -1,2 +1,3 @@
-# Healthcare-excel-Dashboard
-I created a project in Excel, creating dashboards and table to analyse the data. This process included multiple stages including data cleaning and data visualization. 
+##Project Objective
+Patient information with specific medical conditions during the period 2019-2024 is analysed to see the there admission condition, medication and billing information. 
+
