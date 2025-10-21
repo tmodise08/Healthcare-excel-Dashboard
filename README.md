@@ -15,5 +15,6 @@ Patient information with specific medical conditions during the period 2019-2024
 -	Created pivot tables which were then used to create pivot charts.
 -	Put pivot charts together to create dashboards, with one having a direct link to the other.
 ## Dashboard
-![Uploading healthcare dashboard.PNG…]()
+<img width="1382" height="603" alt="healthcare dashboard" src="https://github.com/user-attachments/assets/50772583-3f3f-450a-b051-4eaa3a22117e" />
+
 
