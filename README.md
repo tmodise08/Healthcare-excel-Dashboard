@@ -10,3 +10,10 @@ Patient information with specific medical conditions during the period 2019-2024
 -	Medication by Medical Condition.
 -	Identify which age group has the highest prevalence per condition.
 - <a href =  https://github.com/tmodise08/Healthcare-excel-Dashboard/blob/main/healthcare%20dashboard.PNG > View Dashboard </a>
+## Process
+-	Made sure data the clean regarding the data type, data format and values used.
+-	Created pivot tables which were then used to create pivot charts.
+-	Put pivot charts together to create dashboards, with one having a direct link to the other.
+## Dashboard
+![Uploading healthcare dashboard.PNG…]()
+
